@@ -8,6 +8,6 @@
   "repository": "adaptlearning/adapt-authoring-lang",
   "dependencies": {
     "glob": "7.1.6",
-    "node-polyglot": "2.3.0"
+    "node-polyglot": "2.4.2"
   }
 }
