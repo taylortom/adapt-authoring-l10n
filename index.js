@@ -1,2 +1,1 @@
-const LangModule = require('./lib/LangModule');
-module.exports = LangModule;
+export { default } from './lib/LangModule.js';
